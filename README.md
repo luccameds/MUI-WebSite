@@ -1,6 +1,6 @@
 # MUI/WEBSITE - FrontEnd UI/UX
 
-![MUI/WEBSITE Photo Example](./assets/banner.png)
+![MUI/WEBSITE Photo Example](./src/assets/banner.png)
 
 ## Welcome! 👋
 
